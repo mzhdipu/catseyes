@@ -1,0 +1,1155 @@
+/* Mobile Layout: 320px. */
+@media (min-width: 320px) and (max-width: 480px){
+	p{
+		font-size:11px;
+		margin:0;
+	}
+	/** slider****/
+	.slider-text-top {
+		margin-top: -20px;
+	}
+	.slider-text-top .h1{
+		font-size: 14px;
+		margin-bottom: 0;
+	}
+	.slider-text-top p:last-child {
+		line-height: 1.5em;
+		margin-bottom: 40px;
+		margin-top: -5px;
+	}
+	.slider-text-middel p {
+		line-height: 1em;
+	}
+	.slider-ani {
+		margin-top: -28px;
+	}
+	.slider-text-bottom p{
+		/margin-left:-15px;
+		color:#ffffff;
+	}
+	.carousel-inner{
+		padding: 20px 0;
+	}
+	/.carousel-inner .item img {
+		margin-top: 10px;
+		margin-bottom: 20px;
+	}
+	.btn-danger {
+		padding: 5px 7px;
+		margin-top: 50px;
+		font-size:11px;
+	}
+	.navbar-header {
+		margin-right: -15px;
+		margin-left: -15px;
+		margin-bottom: 35px;
+	}
+	.slider {
+		margin-bottom: -13px;
+		margin-top: 99px;
+	}
+	.navbar-nav {
+		background: #ffffff;
+	}
+	
+	
+	
+	/**** section collection part*****/
+	
+	#collection .collection-text{
+		padding: 0 0 20px;
+		margin: -17px 0 0;
+		margin-bottom: 0px;
+	}
+	#collection .collection-text h2 {
+		font-weight: bold;
+		margin-top: 0;
+		font-size: 24px;
+		margin-bottom:0;
+	}
+	.collection-text p:first-child{
+		margin-top: 25px;
+	}
+	#collection .collection-text span + p{
+		margin-top: -8px;
+		margin-bottom: -45px;
+	}
+	#collection .col-md-6{
+		margin-top: 13px;
+	}
+	#collection .col-md-6:last-child {
+		margin-top: -2px;
+	}
+	
+
+	
+	
+	/***modern beat****/
+	#beat .owl-carousel, .owl-carousel.owl-loaded {
+		margin-top: 0px;
+	}
+	#beat figcaption h3{
+		font-size:20px;
+	}
+	#beat figcaption h3 + p, #beat figcaption .hit-price > p {
+		margin-top: 0px;
+	}
+	#beat .hipstar {
+		margin-top: 45px;
+	}
+	#beat .hit-price span{
+		margin-bottom:5px;
+	}
+	#beat figure{
+		padding:0;
+	}
+	#beat .hit-price span{
+		font-size:11px;
+		text-align:center;
+		
+	}
+	
+	
+	
+	/**section Special Offer part***/
+	.div-text h2 {
+		font-size: 12px;
+	}
+
+	.div-text{
+		margin: -45px auto -24px;
+	}
+	#special .special-right h2 {
+		font-size: 13px;
+		margin-left: -5px;
+		margin-bottom: 0;
+		margin-top: 0;;
+	}
+	#special .special-right i {
+		font-size: 12px;
+	}
+	#special figure img + img {
+		position: absolute;
+		top: 137px;
+		right: -3px;
+	}
+	#special .special-right p:first-child{
+		margin-top:10px;
+	}
+	#special .special-right p {
+		color: #929292;
+		margin: -3px 0 12px -6px;
+	}
+	.bg-danger{
+		background: #27D689;
+		color: #ffffff;
+		padding: 5px;
+		border-radius: 12px;
+		font-size:11px;
+	}
+	a.bg-danger:focus, a.bg-danger:hover {
+		background-color: #000000;
+		color:#ffffff;
+	}
+	
+	/** counter up**/
+	#special .counter-text {
+		margin-left: -22px;
+	}
+
+	#special .single_counter_two_right {
+		width: 50px;
+		height: 50px;
+		float:left;
+		margin-right: 1.5px;
+	}
+	#special .counter-marg{
+		margin-right:-2px;
+	}
+	#special .single_counter_two_right .statistic-counter_two {
+		font-size: 14px;
+		margin-top: -7px;
+		margin-bottom: -10px;
+	}
+	
+	
+	/**progress**/
+	.progress-wrap {
+		margin-top: 5px;
+		margin-bottom: -26px;
+
+	}
+	.progress-title {
+		font-size: 11px;
+		margin: 0;
+	}
+	
+	
+	
+	
+	
+	/*************section new arrivals part************/
+	.div-text h2 {
+		font-size: 16px;
+	}
+	#arrival{
+		margin-bottom: 143px;
+		margin-top: 70px;
+	}
+	#arrival.owl-carousel, .owl-carousel.owl-loaded {
+		margin-top: 0px;
+	}
+	#arrival figcaption h3 {
+		font-size: 16px;
+		margin: 10px 0;
+	}
+	#arrival .owl-carousel .owl-item img{
+		margin: 0 0 15px 40px;
+	}
+	#arrival .figup {
+		margin-top: -130px;
+	}
+	#arrival figcaption {
+		margin-top: -160px;
+	}
+	.flip-container, .front, .back {
+		width: 229px;
+	}
+	.owl-carousel .owl-stage-outer {
+		border: none;
+		padding: 0;
+	}
+	.flipper img {
+		display: block;
+		width: 100%;
+		padding-right: 80px;
+	}
+	.owl-carousel .btn-danger{
+		margin-top:15px
+	}
+	.flipper {
+		margin-top: -98px;
+	}
+	.flipper .front, .back {
+		margin-top: 102px;
+	}
+
+	
+	
+	
+	/***section choose in one style*****/
+	#choose .choose-slider-text {
+		padding: 0;
+		margin: 27px 0;
+	}
+	#choose .item h2{
+		font-size:16px;
+	}
+	#choose .choose-slider-text h2 + p, #choose .max p{
+		line-height:1.5em;
+		margin-bottom:0;
+		margin-top: 15px;
+	}
+	#choose .choose-slider-text h2 {
+		font-size: 21px;
+	}
+
+	#choose .item .col-md-6:first-child {
+		height: 332px;
+		background-size:cover;
+		background-repeat: no-repeat;
+		border-radius: 20px;
+		background-position:center
+
+	}
+	.choose-slider-text p+.btn-danger{
+		margin-top: 20px;
+		margin-bottom:10px;
+	}
+	#choose .max img {
+		margin-top: 40px;
+		margin-bottom: 12px;
+	}
+	#choose .max p{
+		margin-top:0;
+	}
+	#choose .max h2 {
+		margin-bottom: 10px;
+	}
+	#choose figure {
+		margin-top: -13px;
+	}
+	#choose .max {
+		padding: 3px;
+		margin-top: -20px;
+	}
+	.max .btn-danger{
+		margin-top:3px;
+		padding:5px 3px;
+	}
+	#choose .div-text {
+		margin: -115px auto 0;
+	}
+	
+	
+	
+	
+	/**section Headphone MDX part**/
+	#headphone-mdx{
+		padding:0 0 90px;
+	}
+	#headphone-mdx .mdx-text h2{
+		font-size:14px;
+		margin-bottom:0;
+	}
+	#headphone-mdx img {
+		margin-left: 30px;
+		margin-top: 50px;
+	}
+	#headphone-mdx .carousel-indicators li {
+		width: 40px;
+		height: 40px;
+	}
+	#headphone-mdx .mdx-text {
+		padding: 0 10px;
+	}
+	#headphone-mdx .mdx-text span + p{
+		margin: 0 0 20px 0;
+	}
+	#headphone-mdx .carousel {
+		padding: 20px 0;
+	}
+	#headphone-mdx .carousel ol {
+		top: 70px;
+		margin-left: 5px;
+		left: -3px;
+	}
+	#headphone-mdx ul{
+		color:#ffffff;
+		margin-bottom:0;
+	}
+	.heaphonexs p{
+		color: #ffffff;
+		margin-top:10px;
+	}
+	.heaphonebtn .btn-danger{
+		margin-top:5px;
+	}
+	#headphone-mdx .carousel ol {
+		top: 50px;
+	}
+
+
+	
+	
+	/**section Accessories part***/
+	#accessries{
+		margin-bottom: 0;
+	}
+	#accessries .accessries-text{
+		margin-bottom: 40px;
+	}
+	#accessries .accessries-img img {
+		margin: 0 auto;
+	}
+	#accessries .accessries-img::after{
+		left:115px;
+	}
+	#arrival .owl-carousel .owl-item img {
+		margin: 71px 0 0 0px;
+	}
+	#accessries ul {
+		margin-left: 75px;
+		margin-top:0;
+	}
+
+	
+	
+	/** section pricingTable part**/
+	#pricing{
+	margin:50px 0 -50px;
+	}
+	.pricingTable {
+		padding: 60px 10px;
+	}
+	.pricingTable .title {
+		font-size: 32px;
+		margin: 27px 0 10px 0;
+	}
+	
+	
+	/* new offer every week section*/
+	.offer h2{
+		font-size:17px;
+		margin-bottom:0;
+		text-align: left;
+	}
+	.offer p{
+		line-height:1.5em;
+		margin-bottom:0;
+		text-align: justify;
+	}
+	.offer p:first-child{
+		margin-bottom: 25px;
+		text-align:center;
+	}
+	.offer form .btn {
+		top: -50px;
+		right: -2px;
+
+	}
+	.offer form .form-group input {
+		width: 118px;
+	}
+	.offer form.btn-danger{
+		padding: 6px 8px;
+	}
+	.form-group {
+		margin-top: 10px;
+	}
+	#specialOffer figure img {
+		margin-top: 125px;
+	}
+	.offer .btn-danger {
+		padding: 8px 7px;
+    }
+	.offer {
+		margin-top: 85px;
+	}
+	.div-text-2{
+		color:#fff;
+		margin-bottom: -50px;
+	}
+	.div-text-2 h2 {
+		font-size: 16px;
+		font-weight: bold;
+		text-transform: uppercase;
+	}
+	
+
+
+
+
+
+	/**    Footer part****/
+
+		/** Footer-Top **/
+	#footer-top .logo-text{
+		border-bottom:1px solid #3E3E3E;
+		margin-bottom:10px;
+	}
+	#footer-top h4{
+		text-align:center;
+	}
+	#footer-top{}
+	#footer-top .april{
+		margin: -1px;
+		padding:0;
+	}
+
+
+	#footer-top .quick{
+		text-align:center;
+	}
+	#footer-top .quick a{
+		font-size:11px;
+	}
+
+
+
+	.some-post p{
+		margin-top:5px;
+		font-size:11px;
+	}
+	.some-post .april .date {
+		margin-top: -9px;
+		margin-bottom: 10px;
+	}
+	.some-post .april img {
+		margin-bottom: 22px;
+		margin-left: 25px;
+	}
+	.some-post .april p{
+		margin-left: 10px;
+	}
+
+	.populer {
+		margin-top: 32px;
+	}
+	.populer ul li{
+		padding: 9px 11px;
+		margin-right: 12px;
+		font-size:11px;
+	}
+	.populer ul {
+		margin-left: -20px;
+	}
+
+		/** Footer-bottom **/
+	.social {
+		margin:-25px 0 18px 25px;
+	}
+
+	  .client{
+		margin:0 0 20px -17px;
+	}
+	#footer-bottom ul li {
+		margin-left: 8px;
+	}
+	.copy-right{
+		text-align: center;
+	}
+
+
+	.scroll-top-wrapper {
+    right: 3px;
+    bottom: 3px;
+	}
+
+
+	/** page2******/
+	.Pupular h2{
+		font-size: 25px;
+	}
+	.page2-top {
+		margin: 110px 0 80px;
+	}
+	.chooseColor .page2color_1,.chooseColor .page2color_2,.chooseColor .page2color_3,.chooseColor .page2color_4,.chooseColor .page2color_5,.chooseColor .page2color_6,.chooseColor .page2color_7,.chooseColor .page2color_8{
+		margin-right: 0;
+	}
+	.populer2 ul li{
+		font-size: 12px;
+		margin-right: 5px;
+		padding: 13px;
+	}
+	.carousel-caption h2 {
+		font-size: 12px;
+		font-weight: bold;
+		margin-top: 0;
+	}
+	.carousel-caption .btn {
+		margin-top: 11px;
+	}
+	.carousel-caption {
+		left: 60%;
+		top: -23px;
+	}
+	.carousel-inner {
+		padding: 0;
+		margin-top: 20px;
+	}
+
+	#dontmiss{
+		text-align: center;
+	}
+	#dontmiss h2 {
+		font-size: 21px;
+	}
+	#dontmiss form .btn {
+		top: -51px;
+		right: 7px;
+		padding: 10px;
+	}
+	#dontmiss.form-control input{
+		height: 35px;
+	}
+
+
+
+	/*** page 3 ***/
+	.smartWatchTopText{
+		margin-top: 115px;
+	}
+	.smartWatchWrapper .page2color_1,.smartWatchWrapper .page2color_2,.smartWatchWrapper .page2color_3,.smartWatchWrapper .page2color_4,.smartWatchWrapper .page2color_5,.smartWatchWrapper .page2color_6,.smartWatchWrapper .page2color_7,.smartWatchWrapper .page2color_8{
+		margin-right: 0;
+	}
+	.share{
+		margin-left: -10px;
+	}
+	.addWatch button {
+		margin-left: 1px;
+		font-size: 10px;
+	}
+	.addWatch {
+		margin-top: -10px;
+	}
+
+	.productBtm figure::after{
+		left: -400px;
+	}
+
+
+
+	/** page 4 ***/
+	.page4-top {
+		margin: 145px 0 20px;
+	}
+	#checkOut .info h2{
+		font-size: 33px;
+	}
+	#checkOut .info{
+		margin-top: 55px;
+	}
+	.bllings{
+		margin-top: -95px;
+	}
+
+	.bllings form [type="text"], .bllings form [type="tel"], .bllings form select{
+		height:30px;
+	}
+	label[for="checkbox2"]{
+		font-size: 17px;
+	}
+	#details h2{
+		margin: 40px 0 15px;
+	}
+
+
+
+	/*** page 5 ****/
+	#contactUs{
+		margin-top: 125px;
+		background-size: cover;
+		height: 300px;
+	}
+	.contactUsText{
+		margin-top: -150px;
+	}
+	#contactUs h1{
+		letter-spacing: 2px;
+		font-size: 42px;
+	}
+	#ready {
+		margin: -24px 0 0;
+	}
+	#question h2{
+		margin-bottom: -20px;
+	}
+	#question {
+		margin: 60px 0 -40px 0;
+	}
+
+	.address, .phone, .email, .follow{
+		margin-bottom: 50px;
+	}
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+@media (min-width: 360px) and (max-width: 640px){
+	.populer ul li {
+		margin-right: 15px;
+	}
+	.social{
+		margin-left: 40px;
+	}
+	.client{
+		margin-left: 0;
+	}
+	.offer form .form-group input {
+		width: 138px;
+	}
+
+	/** page2******/
+	.Pupular h2{
+		font-size: 28px;
+	}
+	.page2-top {
+		margin: 106px 0 65px;
+	}
+	.populer2 ul li {
+		margin-bottom: 18px;
+		margin-right: 7px;
+	}
+	.carousel-caption h2 {
+		font-size: 12px;
+		font-weight: bold;
+		margin-top: 0;
+	}
+	.carousel-caption .btn {
+		margin-top: 11px;
+	}
+	.carousel-caption {
+		left: 60%;
+		top: -23px;
+	}
+	.carousel-inner {
+		padding: 0;
+		margin-top: 20px;
+	}
+
+	#dontmiss{
+		text-align: center;
+	}
+	#dontmiss h2 {
+		font-size: 23px;
+	}
+	#dontmiss form .btn {
+		top: -51px;
+		right: 7px;
+		padding: 10px;
+	}
+	#dontmiss.form-control input{
+		height: 35px;
+	}
+
+
+	/** page 3 ****/
+	.populer2 ul li{
+		margin-right: 15px;
+	}
+	.addWatch {
+		margin-top: -10px;
+	}
+
+
+	/*** page 4 *****/
+	.biteHit input {
+		margin-top: 0;
+		margin-left: 168px;
+	}
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* Tablet Layout: 768px. */
+@media (min-width: 768px) and (max-width: 1024px) {
+	/** slider****/
+		
+	.slider-text-top {
+		margin-top: -10px;
+	}
+	.slider-text-top .h1{
+		font-size:40px;
+		margin-bottom: 0;
+	}
+	.slider-text-top p:last-child {
+		line-height: 1.5em;
+		margin-bottom: 40px;
+		margin-top: -5px;
+	}
+	
+	.slider-text-middel p {
+		line-height: 1em;
+	}
+	.slider-ani {
+		margin-top: -28px;
+	}
+	.slider-text-bottom p{
+		/margin-left:-15px;
+		color:#ffffff;
+	}
+	.carousel-inner{
+		padding:20px 0;
+	}
+	.carousel-inner .item img {
+		margin-top: 20px;
+	}
+	.btn-danger {
+		padding: 5px 7px;
+		margin-top: 50px;
+	}
+	.slider-text-bottom .btn {
+		margin-top: 10px;
+	}
+	.slider {
+		margin-top: 100px;
+	}
+
+	
+	/***** menu******/
+	.navbar-default .navbar-collapse, .navbar-default .navbar-form {
+		margin-left: -162px;
+	}
+	.navbar-nav > li {
+		margin-left: -10px;
+	}
+	.navbar-nav > li > .dropdown-menu {
+		width: 1120px;
+	}
+   
+   #collection {
+		margin-top: -113px;
+	}
+	#collection .col-md-6{
+		margin-bottom:-22px;
+	}
+	#collection .collection-text h2 {
+		font-size: 26px;
+		margin: 0;
+		margin-top: -9px;
+	}
+	#collection .collection-text span + p {
+		margin-top: -3px;
+		margin-bottom: -45px;
+	}
+	#collection.btn-danger{
+		margin-bottom:40px
+	}
+	#collection .collection-text {
+		margin-top: 34px;
+		padding: 0;
+	}
+	#collection .col-md-6{
+		margin-top:89px;
+	}
+	
+	
+	#beat .hipstar{
+		margin-top: 80px;
+	}
+	#beat-slider.owl-carousel .owl-stage-outer {
+    border: none;
+    padding:0;
+	}
+	
+	.div-text {
+		margin: 0 auto -30px;
+	}
+	#special .special-right h2 {
+		font-size: 36px;
+		margin: 15px 0 -16px;
+	}
+	#special .single_counter_two_right {
+		width: 100px;
+		height: 100px;
+		padding:0;
+		border-radius: 50%;
+		float: left;
+		margin-right: 13px;
+	}
+	#special figure > img {
+		height: 491px;
+	}
+	#special figure img + img {
+		top: 9px;
+		right: -179px;
+	}
+	#special .counter{
+		margin-top: -13px;
+		margin-bottom: -15px;
+	}
+	#special .special-right p {
+		line-height: 1.5em;
+	}
+	
+	
+	
+	
+	#arrival{
+		margin:0;
+		margin-bottom: 60px;
+	}
+	#arrival .figup {
+		margin-top: -70px;
+	}
+	#arrival-slider.owl-carousel .owl-item img {
+		width: 220px;
+	}
+	#arrival-slider figcaption {
+		margin-top: -150px;
+	}
+	#arrival .margin {
+		margin-top: 75px;
+	}
+	#arrival-slider .re-margin{
+		margin-top:20px;
+	}
+	.flip-container, .front, .back {
+		height: 360px;
+	}
+	#arrival .div-text {
+		margin: 0 auto 35px;
+	}
+	
+	#choose .choose-slider-text {
+		color: #FFFFFF;
+		padding: 30px 0 0;
+	}
+	#choose .item .col-md-6:first-child{
+		height:370px;
+		margin-top: 26px;
+		background-size:cover;
+	}
+	#choose{
+		padding:0;
+	}
+	/#choose .choose-slider-text,#choose .max{
+		padding:30px 0;
+	}
+	/#choose .choose-slider-text h2{
+		font-size:34px;
+	}
+	/#choose .item .col-md-6:first-child{
+		margin-top: 53px;
+	}
+	#choose .max h2{
+		margin:0;
+	}
+	#choose .max p{
+		line-height:1.5em;
+		margin:0;
+	}
+	#choose .btn-danger{
+		margin-top:10px;
+	}
+	/#choose .item .col-md-6:first-child {
+		background-size: cover;
+		height: 400px;
+		background-position: center;
+	}
+	#choose .item .col-md-6 img {
+		top: 36%;
+		right: -11px;
+	}
+	
+	
+	
+	
+	#headphone-mdx .carousel{
+		/padding:20px;
+	}
+	/#headphone-mdx .mdx-text h2 {
+    font-size: 33px;
+	}
+	/#headphone-mdx .mdx-text h2 {
+		font-size:31px;
+		margin-bottom:0;
+	}
+	#headphone-mdx ul {
+		margin-bottom: 12px;
+		margin-top: -10px;
+	}
+	#headphone-mdx .btn-danger{
+		margin-top:10px;
+	}
+	/#headphone-mdx .carousel ol {
+		top: 104px;
+	}
+	.acc-margin .btn-danger{
+		margin:0;
+	}
+	#accessries .acc-margin{
+		margin:0;
+	}
+	#accessries .acc-down{
+		margin-top: -356px;
+	}
+	#accessries ul {
+		margin-left: 265px;
+	}
+
+	
+	
+	
+	.pricingTable{
+		padding:0;
+	}
+	.pricingTable .title{
+		font-size:21px;
+	}
+	#pricing .btn{
+		margin-top:0;
+		margin-bottom:30px;
+	}
+	.pricingTable .pricingTable-header {
+		padding: 66px 20px 0;
+	}
+
+	
+	
+	
+	.offer form .btn {
+		top: -49px;
+		right: -2px;
+		width: 52px;
+		font-size: 8px;
+	}
+	.offer h2{
+		font-size:23px;
+	}
+	#specialOffer figure img {
+		margin-top: 71px;
+	}
+
+	.offer form .form-group input {
+		width: 350px;
+		border-radius: 15px;
+		margin-left: -16px;
+		height: 32px;
+	}
+	.offer form .btn{
+		font-size: 11px;
+	}
+
+
+
+
+	.populer ul li {
+		margin-right: 22px;
+	}
+	#footer-bottom ul li {
+		margin-left: 15px;
+		margin-bottom:50px;
+	}
+
+
+	/**** page2 *******/
+	.page2-top {
+		margin: 110px 0 80px;
+	}
+	.populer2 ul li{
+		margin-right: 14px;
+	}
+	.productBtm figure::after{
+		left: -405px;
+	}
+	#dontmiss{
+		text-align: center;
+	}
+	#dontmiss h2{
+		font-size: 35px;
+	}
+	#dontmiss form .btn {
+		top: -53px;
+		right: -4px;
+	}
+	.carousel2{
+		top: -20px;
+	}
+	.carousel2 h2{
+		font-size: 12px;
+		margin-top: 0;
+		font-weight: bold;
+	}
+	.carousel2 p{
+		font-size: 12px;
+	}
+	.carousel2 p+.btn {
+		text-shadow: none;
+		margin-top: 0;
+	}
+
+
+	/*page 3 *****/
+	.Pupular h2{
+		font-size: 29px;
+	}
+	.addWatch button {
+		margin-bottom: -4px;
+		font-size: 12px;
+	}
+
+	#accessrie3 figure img{
+		margin-left: 5px;
+	}
+	#accessrie3 .thumbnail:hover:after{
+		right: 26px;
+	}
+	.smartWatchWrapper .quintity .qBtn2{
+		right:95px
+	}
+
+	/**** page 4 ****/
+	#checkOut .info{
+		margin-top: 100px;
+	}
+	.page4-top{
+		margin: 140px 0 0;
+	}
+
+
+	/**** page 5 ****/
+	#contactUs{
+		margin-top: 150px;
+	}
+}
+
+
+
+
+
+
+
+
+/* Wide Mobile Layout: 480px. */
+/*@media only screen and (min-width: 480px) and (max-width: 767px) {
+	.slider .btn-danger {
+		margin-top: 20px;
+		font-size: 11px;
+		margin-left: 13px;
+	}
+	#collection .col-md-6 {
+		margin-top: 14px;
+		background-size:cover;
+		background-position:center;
+	}
+	#collection .collection-text{
+		margin-top:20px;
+	}
+
+	#beat figcaption h3 {
+		font-size: 18px;
+	}
+
+
+
+}*/
+
+
+
+
+
+/* Medium Layout: 1280px. */
+@media only screen and (min-width: 992px) and (max-width: 1200px) { 
+	/** slider****/
+	
+  .slider-text-top .h1{
+	  font-size:55px;
+  }
+  .btn{
+	  padding: 8px 3px;
+  }
+  .slider-text{
+	  margin-top: -30px;
+  }
+  
+  .slider {
+	margin-top: 171px;
+  }
+  
+  
+    
+}
+
+
+
+
+
